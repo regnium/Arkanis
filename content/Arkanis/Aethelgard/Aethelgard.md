@@ -1,1 +1,9 @@
-El continente donde se encuentra [[valdrum]]
+---
+tags:
+  - continente
+---
+El continente donde se encuentra [[Valdrunn]]
+.
+´{
+
+}
