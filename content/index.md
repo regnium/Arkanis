@@ -2,8 +2,8 @@
 title: Bienvenidos a Arkanis
 tags:
 ---
-[[Arkanis]]
-[[Aethelgard]]
-[[Valdrum]]
+- [[Arkanis]]
+	- [[Aethelgard]]
+		- [[Valdrum]]
 
 
