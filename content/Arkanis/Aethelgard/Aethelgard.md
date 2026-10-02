@@ -1,1 +1,1 @@
-El continente donde se encuentra [[Valdrum]]
+El continente donde se encuentra [[valdrum]]
